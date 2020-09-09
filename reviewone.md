@@ -1,31 +1,28 @@
-# Game Review for (GAME TITLE)
+# Game Review for (Ghost of Tsushima)
 
 ## Details
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+Ghost of Tsushima https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I give this game a 3.5 out of a 5.0
 
 ## Summary
 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+Ghost of Tsushima plays similar to Assassin Creed, but with a much smaller world. Its strength is in its beautiful color scheme and fight mechanics. Having lived in Japan, I can appreciate the games portrayal of things like the snow in the mountains, and foliage. The armor suits, although limited in variety, pay homage with detail and refinement. With all of the great scenery, it was a little bit of letdown with a clunky implementation with the wind and some of the renderings of the rocks around mountains. Also, a lack of interaction with the water and the beaches leaves the player wanting for more.
+
+Of all of the aspects of the game the fight mechanics were a pleasant surprise. Like any action game it takes several tasks to earn points so that one can unlock different fighting styles and techniques. In the beginning, the game slows down to allow the user to switch between fighting styles. After a while, when you reach the later parts of the game, it does feel like it can slow the pace of large battle scenes down. When the game forces you into more covert missions, the mechanics put in place for different fighting styles creating a cumbersome affair. Keeping to its form, the weaponry is light on variety, but the miscellaneous side weapons makes for an entertaining endeavor.
+
+When looking at the overall pace of the game, it does seem a little hit and miss. The main story line seems to rush through rather quickly. After being rescued from the beach the main actor works to free his uncle, then on to rescuing his uncles castle. After a few missions you are working your way north to fight the Khan. Although the main story is the longest, some of the side missions seem to play out longer than needed. Upgrades are rather sparse and its nice to see that one is not over inundated with grinding missions chasing loot boxes. The game does seem to end sooner than one might think, but by time you upgrade all of your gear and weapons, there is not really much else to overcome.
+Final Thoughts
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+Overall the game is enjoyable as a slasher, just not enough content to get it a fourth star. It was nice to take on large battle scenes while sticking with the overall fight mechanics. Keeping the integrity of the samurai fighting style and beautiful scenery almost makes one feel like they are inside the movie Hero (and yes I recognize they are different nationalities). The rather short campaign and lack of enemy combatant diversity leave a whole in the game play. The fight engine gets predictable with a few more glitches in game than one would prefer.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+No additional information at this time.
