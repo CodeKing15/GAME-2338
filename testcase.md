@@ -30,7 +30,7 @@
 | 1 | Search for automation tools on the web. | Success | (√) |			
 | 2 | Apply tool to movement controls. | Success | (√) |
 | 3 | Run the automatic test tool. | Success | (√) |
-| 4 | Continue to moniter the status of tool. | Success | (√) |			
+| 4 | Continue to monitor the status of tool. | Success | (√) |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
